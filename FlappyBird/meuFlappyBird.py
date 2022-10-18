@@ -89,7 +89,7 @@ class Passaro:
 
 
 class Cano:
-    DISTANCIA = 200
+    DISTANCIA = 250
     VELOCIDADE = 4
 
     def __init__(self, x):
